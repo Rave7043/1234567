@@ -40,6 +40,11 @@
       <artifactId>junit-jupiter-params</artifactId>
       <scope>test</scope>
     </dependency>
+<dependency>
+    <groupId>org.sakaiproject.googledrive</groupId>
+    <artifactId>sakai-googledrive-api</artifactId>
+    <version>23.2</version>
+</dependency>
   </dependencies>
 
   <build>
